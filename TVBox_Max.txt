@@ -1,0 +1,24 @@
+﻿{
+    "api":[ 
+        {"key":"TVBox多线路〔点我切换〕","name":"个人维护","ext":"切换以下多接口即可","date":"2022-09-09 08:50:05" },
+        {"key":"TVBox223843","name":"TVBox223843","ext":"https://wds.ecsxs.com/223843.txt","date":"2022-09-09 08:50:05" },
+        {"key":"TVBox_awei","name":"TVBox_awei","ext":"https://aweiblog.oss-cn-shenzhen.aliyuncs.com/mao/mao.txt","date":"2022-09-09 08:50:05" },
+        {"key":"CH猫友","name":"☁️CH猫友","ext":"https://freed.yuanhsing.cf/TVBox/meowcf.json","date":"2022-09-09 08:50:05"},        
+        {"key":"潇洒","name":"☁️潇洒","ext":"https://download.kstore.space/download/2863/01.txt","date":"2022-09-06 17:50:05" },
+        {"key":"dxawi_github️","name":"☁️dxawi_github️","ext":"https://dxawi.github.io/0/0.json","date":"2022-09-09 08:52:05"},		
+        {"key":"云星家庭","name":"☁️云星家庭〔纯绿色家庭版〕","ext":"http://maoyingshi.cc/tvbox/云星日记/1.m3u8","date":"2022-09-06 11:52:05" },
+        {"key":"云星阿里","name":"☁️云星阿里〔小纸条/推送等〕","ext":"http://maoyingshi.cc/tvbox/云星日记/ali.m3u8","date":"2022-09-06 11:52:05" },
+        {"key":"云星哔哩","name":"☁️云星哔哩〔大套餐/学堂等〕","ext":"http://maoyingshi.cc/tvbox/云星日记/bili.json","date":"2022-09-06 11:52:05" },
+        {"key":"agit_branch️","name":"💖agit_branch️","ext":"https://agit.ai/n/b/raw/branch/a/b/c.json","date":"2022-09-06 11:52:05" },
+        {"key":"️太阳","name":"☀️太阳〔XBXP爬虫线路〕","ext":"http://miaotvs.cn/osc","date":"2022-09-06 11:52:05" },
+        {"key":"神器推送","name":"🤪神器推送〔多条线路〕","ext":"https://神器每日推送.tk/pz.json","date":"2022-09-06 11:52:05"},
+        {"key":"南风","name":"🏔南风〔多条线路〕","ext":"https://gitea.com/Yoursmile/TVBox/raw/branch/main/XC.json","date":"2022-09-06 11:52:05"},
+        {"key":"张宏","name":"🌈张宏〔多条线路〕","ext":"https://gitee.com/zhanghong19830310/tv/raw/master/tv/giteetvboxjt.json","date":"2022-09-06 11:52:05"},        
+        {"key":"老刘备","name":"🍸老刘备〔多条线路〕","ext":"https://raw.iqiq.io/liu673cn/box/main/m.json","date":"2022-09-06 11:52:05"},        
+        {"key":"懒人","name":"👱懒人线路〔多条线路〕","ext":"https://box.okeybox.top/tv/0xth.json","date":"2022-09-06 11:52:05"},        
+        {"key":"白嫖","name":"💨白嫖线路〔多条线路〕","ext":"http://js.134584.xyz/json/pp87.json","date":"2022-09-06 11:52:05"},        
+        {"key":"待认领1","name":"待认领1","ext":"https://gitea.com/leevi/NingMengDrink/raw/branch/main/ziyong.json","date":"2022-09-09 08:52:05"},
+        {"key":"待认领2","name":"待认领2","ext":"https://liu673cn.github.io/box/m.json","date":"2022-09-09 08:52:05"}   
+                                         
+             ]
+    }
