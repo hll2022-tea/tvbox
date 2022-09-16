@@ -2,149 +2,149 @@
 "urls": [
 {
 "url": "https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/%E8%A7%82%E5%BD%B1TV/iqiqjt.json",
-"name": "IQIQ¼ÒÍ¥°æÏßÂ·"
+"name": "IQIQå®¶åº­ç‰ˆçº¿è·¯"
 },
 {
 "url": "https://raw.fastgit.org/zhanghong1983/TVBOXZY/main/%E8%A7%82%E5%BD%B1TV/gfjt.json",
-"name": "FASTGIT¼ÒÍ¥°æÏßÂ·"
+"name": "FASTGITå®¶åº­ç‰ˆçº¿è·¯"
 },
 {
 "url": "https://gitee.com/zhanghong19830310/tv/raw/master/tv/giteetvboxjt.json",
-"name": "GITEE¼ÒÍ¥°æÏßÂ·"
+"name": "GITEEå®¶åº­ç‰ˆçº¿è·¯"
 },
 {
-"url": "http://maoyingshi.cc/tvbox/ÔÆĞÇÈÕ¼Ç/1.m3u8",
-"name": "¡²ÔÆĞÇÈÕ¼Ç¡³¼ÒÍ¥°æÏßÂ·"
+"url": "http://maoyingshi.cc/tvbox/äº‘æ˜Ÿæ—¥è®°/1.m3u8",
+"name": "ã€”äº‘æ˜Ÿæ—¥è®°ã€•å®¶åº­ç‰ˆçº¿è·¯"
 },
 {
-"url": "http://maoyingshi.cc/tvbox/ÔÆĞÇÈÕ¼Ç/bili.json",
-"name": "¡²ÔÆĞÇÈÕ¼Ç¡³ßÙÁ¨Ì×²ÍÏßÂ·"
+"url": "http://maoyingshi.cc/tvbox/äº‘æ˜Ÿæ—¥è®°/bili.json",
+"name": "ã€”äº‘æ˜Ÿæ—¥è®°ã€•å“”å“©å¥—é¤çº¿è·¯"
 },
 {
 "url": "http://js.134584.xyz/json/pp87.json",
-"name": "°×æÎÓ°ÊÓ¼ÒÍ¥°æÏßÂ·"
+"name": "ç™½å«–å½±è§†å®¶åº­ç‰ˆçº¿è·¯"
 },
 {
 "url": "https://gitea.com/Yoursmile/TVBox/raw/branch/main/XC.json",
-"name": "Yoursmile¼ÒÍ¥°æÏßÂ·"
+"name": "Yoursmileå®¶åº­ç‰ˆçº¿è·¯"
 },
 {
 "url": "http://52bsj.vip:98/wuai",
-"name": "Îá°®²âÆÀ"
+"name": "å¾çˆ±æµ‹è¯„"
 },
 {
 "url": "https://raw.fastgit.org/chengxueli818913/maoTV/main/33.txt",
-"name": "°ÛĞÀÔ°Ö÷Ïß"
+"name": "ä½°æ¬£å›­ä¸»çº¿"
 },
 {
 "url": "https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/44.txt",
-"name": "°ÛĞÀÔ°¸±Ïß"
+"name": "ä½°æ¬£å›­å‰¯çº¿"
 },
 {
 "url": "https://www.fastmock.site/mock/1d52adb084c96725525077ce7380de4c/tv/bd",
-"name": "BDÏßÂ·"
+"name": "BDçº¿è·¯"
 },
 {
 "url": "http://0454dt.com/tvbox",
-"name": "¶ş¹şÏßÂ·"
+"name": "äºŒå“ˆçº¿è·¯"
 },
 {
-"url": "https://ÉñÆ÷Ã¿ÈÕÍÆËÍ.tk/pz.json",
-"name": "ÉñÆ÷Ã¿ÈÕÍÆËÍÏßÂ·"
+"url": "https://ç¥å™¨æ¯æ—¥æ¨é€.tk/pz.json",
+"name": "ç¥å™¨æ¯æ—¥æ¨é€çº¿è·¯"
 },
 {
 "url": "https://gitcode.net/qq_26898231/TVBox/-/raw/main/tv.json",
-"name": "±ùµãÓéÀÖÏßÂ·"
+"name": "å†°ç‚¹å¨±ä¹çº¿è·¯"
 },
 {
 "url": "http://120.53.102.254/tvb",
-"name": "ÀÁÈËÏßÂ·"
+"name": "æ‡’äººçº¿è·¯"
 },
 {
 "url": "https://gitea.com/suanjin/tv/raw/branch/master/main/0725.json",
-"name": "suanjinÏßÂ·"
+"name": "suanjinçº¿è·¯"
 },
 {
 "url": "http://47.242.90.42:8888/down/BJZPa8THuiE9",
-"name": "ĞÇ³½ÏßÂ·"
+"name": "æ˜Ÿè¾°çº¿è·¯"
 },
 {
 "url": "http://52bsj.vip:81/api/v3/file/get/29899/box2.json?sign=3cVyKZQr3lFAwdB3HK-A7h33e0MnmG6lLB9oWlvSNnM%3D%3A0",
-"name": "ÔÂ¹â±¦ºĞÏßÂ·"
+"name": "æœˆå…‰å®ç›’çº¿è·¯"
 },
 {
 "url": "https://share.nite07.com/api/v3/file/source/13485/0716.txt?sign=dxhV79Bv7z8Dc-UIC75rWZ50Z1qFYUJxqOwaBsKhKQU=:0",
-"name": "Ã¨Ó°ÊÓProÏßÂ·"
+"name": "çŒ«å½±è§†Proçº¿è·¯"
 },
 {
 "url": "https://gitea.com/sunkangfu/skf/raw/branch/main/sjz.json",
-"name": "sunkangfuÏßÂ·"
+"name": "sunkangfuçº¿è·¯"
 },
 {
 "url": "https://gitcode.net/kuukey/a/-/raw/master/0.json",
-"name": "KUUKEÏßÂ·"
+"name": "KUUKEçº¿è·¯"
 },
 {
 "url": "https://gitea.com/nb/kls/raw/branch/master/a9.json",
-"name": "KLSÏßÂ·"
+"name": "KLSçº¿è·¯"
 },
 {
-"url": "https://gitea.com/qsy/json/raw/branch/main/×ÔÓÃ.txt",
-"name": "QSYÏßÂ·"
+"url": "https://gitea.com/qsy/json/raw/branch/main/è‡ªç”¨.txt",
+"name": "QSYçº¿è·¯"
 },
 {
-"url": "https://gitea.com/qsy/json/raw/branch/main/Çú.txt",
-"name": "QSY¸±Ïß"
+"url": "https://gitea.com/qsy/json/raw/branch/main/æ›².txt",
+"name": "QSYå‰¯çº¿"
 },
 {
 "url": "https://gitea.com/83225451/Tvbox/raw/branch/main/111.json",
-"name": "83225451ÏßÂ·"
+"name": "83225451çº¿è·¯"
 },
 {
 "url": "https://gitea.com/chuqiuyu/chuqiuyu/raw/branch/master/0820.json",
-"name": "chuqiuyuÏßÂ·"
+"name": "chuqiuyuçº¿è·¯"
 },
 {
 "url": "https://gitea.com/chuqiuyu/chuqiuyu/raw/branch/master/1.json",
-"name": "chuqiuyu±¸ÓÃÏß"
+"name": "chuqiuyuå¤‡ç”¨çº¿"
 },
 {
 "url": "https://raw.iqiq.io/liu673cn/box/main/m.json",
-"name": "ÀÏÁõ±¸¼ÒÍ¥°æÏßÂ·"
+"name": "è€åˆ˜å¤‡å®¶åº­ç‰ˆçº¿è·¯"
 },
 {
 "url": "https://ghproxy.com/https://raw.githubusercontent.com/liu673cn/box/main/m.json",
-"name": "ÀÏÁõ±¸¼ÒÍ¥°æ¸±Ïß"
+"name": "è€åˆ˜å¤‡å®¶åº­ç‰ˆå‰¯çº¿"
 },
 {
 "url": "https://download.kstore.space/download/2863/01.txt",
-"name": "äìÈ÷ÈÕ¼ÇÏßÂ·"
+"name": "æ½‡æ´’æ—¥è®°çº¿è·¯"
 },
 {
 "url": "https://wds.ecsxs.com/223843.txt",
-"name": "223843ÏßÂ·"
+"name": "223843çº¿è·¯"
 },
 {
 "url": "http://s.nxw.so/vip",
-"name": "¿­ËÙ2863"
+"name": "å‡¯é€Ÿ2863"
 },
 {
 "url": "https://shadowchiu369.github.io/TVBox/sc.json",
-"name": "É¶¶¼³îÏßÂ·"
+"name": "å•¥éƒ½æ„çº¿è·¯"
 },
 {
 "url": "https://agit.ai/n/b/raw/branch/a/b/c.json",
-"name": "HDXYÏßÂ·"
+"name": "HDXYçº¿è·¯"
 },
 {
 "url": "http://miaotvs.cn/osc",
-"name": "Ì«ÑôÊÓ½ç¼ÒÍ¥°æÏßÂ·"
+"name": "å¤ªé˜³è§†ç•Œå®¶åº­ç‰ˆçº¿è·¯"
 }
 ],
 "vip": [
 {
 "url": "https://xxx",
-"name": "FASTGIT¸öÈËÏßÂ·"
+"name": "FASTGITä¸ªäººçº¿è·¯"
 }
 ]
 }
