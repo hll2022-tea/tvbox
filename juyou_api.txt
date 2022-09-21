@@ -4,12 +4,13 @@
 "url": "https://ghproxy.com/https://github.com/hll2022-tea/tv_yuan/blob/main/FASTGIT_myHome.txt",
 "name": "FASTGIT_my家庭版线路"
 },
+{
 "url": "https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/%E8%A7%82%E5%BD%B1TV/iqiqjt.json",
 "name": "IQIQ家庭版线路"
 },
 {
-"url": "https://raw.fastgit.org/zhanghong1983/TVBOXZY/main/%E8%A7%82%E5%BD%B1TV/gfjt.json",
-"name": "FASTGIT家庭版线路"
+"url": "https://ghproxy.com/https://github.com/hll2022-tea/tv_yuan/blob/main/FASTGIT_myHome.txt",
+"name": "FASTGIT_my家庭版线路"
 },
 {
 "url": "https://gitee.com/zhanghong19830310/tv/raw/master/tv/giteetvboxjt.json",
