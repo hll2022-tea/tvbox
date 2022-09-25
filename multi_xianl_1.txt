@@ -1,0 +1,25 @@
+{
+    "urls": [
+        {
+            "url": "http://111.67.196.181/mtv/meow.txt",
+            "name": "喵影视源2.9.0"
+        },
+       {
+            "url": "http://xiaoguozitv.cn/catys/mao0628.txt",
+            "name": "喵tv内置源"
+        },
+       {
+            "url": "https://share.nite07.com/api/v3/file/source/13485/0716.txt?sign=dxhV79Bv7z8Dc-UIC75rWZ50Z1qFYUJxqOwaBsKhKQU%3D%3A0",
+            "name": "猫影视Pro"
+        },
+       {
+            "url": "http://miaotvs.cn/osc",
+            "name": "喵影视tv"
+        },
+       {
+            "url": "http://js.134584.xyz/json/pp87.json",
+            "name": "影视酷(手机版)"
+        }
+
+]
+}
