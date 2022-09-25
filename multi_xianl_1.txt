@@ -2,24 +2,23 @@
     "urls": [
         {
             "url": "http://111.67.196.181/mtv/meow.txt",
-            "name": "ß÷Ó°ÊÓÔ´2.9.0"
+            "name": "å–µå½±è§†æº2.9.0"
         },
        {
             "url": "http://xiaoguozitv.cn/catys/mao0628.txt",
-            "name": "ß÷tvÄÚÖÃÔ´"
+            "name": "å–µtvå†…ç½®æº"
         },
        {
             "url": "https://share.nite07.com/api/v3/file/source/13485/0716.txt?sign=dxhV79Bv7z8Dc-UIC75rWZ50Z1qFYUJxqOwaBsKhKQU%3D%3A0",
-            "name": "Ã¨Ó°ÊÓPro"
+            "name": "çŒ«å½±è§†Pro"
         },
        {
             "url": "http://miaotvs.cn/osc",
-            "name": "ß÷Ó°ÊÓtv"
+            "name": "å–µå½±è§†tv"
         },
        {
             "url": "http://js.134584.xyz/json/pp87.json",
-            "name": "Ó°ÊÓ¿á(ÊÖ»ú°æ)"
+            "name": "å½±è§†é…·(æ‰‹æœºç‰ˆ)"
         }
-
 ]
 }
