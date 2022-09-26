@@ -2,7 +2,7 @@
     "api":[ 
         {"key":"TVBox多线路〔点我切换〕","name":"个人维护","ext":"切换以下多接口即可","date":"2022-09-09 08:50:05" },
         {"key":"FASTGIT_my家庭版线路","name":"FASTGIT_my家庭版线路","ext":"https://ghproxy.com/https://github.com/hll2022-tea/tv_yuan/blob/main/FASTGIT_myHome.txt","date":"2022-09-21 08:50:05" },
-        {"key":"TVBox223843","name":"TVBox223843","ext":"https://wds.ecsxs.com/223843.txt","date":"2022-09-09 08:50:05" },
+        {"key":"TVBox223843","name":"TVBox223843","ext":"http://byyds.top/w.txt","date":"2022-09-09 08:50:05" },
 {"key":"TVBox_awei","name":"TVBox_awei","ext":"https://aweiblog.oss-cn-shenzhen.aliyuncs.com/mao/mao.txt","date":"2022-09-09 08:50:05" },
         {"key":"CH猫友","name":"☁️CH猫友","ext":"https://freed.yuanhsing.cf/TVBox/meowcf.json","date":"2022-09-09 08:50:05"},        
         {"key":"潇洒","name":"☁️潇洒","ext":"https://download.kstore.space/download/2863/01.txt","date":"2022-09-06 17:50:05" },
