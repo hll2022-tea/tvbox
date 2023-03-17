@@ -1,24 +1,61 @@
 {
     "urls": [
+         {
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/fj.json",
+            "name": "一影视"
+        },
+	  {
+            "url": "https://agit.ai/nbwzlyd/xiaopingguo/raw/branch/master/xiaopingguo/xiaopingguo.json",
+            "name": "小苹果"
+        },
+       {
+            "url": "https://0a.fit/X000",
+            "name": "多多"
+        },
         {
-            "url": "http://111.67.196.181/mtv/meow.txt",
-            "name": "喵影视源2.9.0"
+            "url": "https://jihulab.com/ygbh1/box/-/raw/main/月光宝盒",
+            "name": "月光宝盒Box"
+        },
+       {
+            "url": "http://52bsj.vip:81/api/v3/file/get/41063/bili.json?sign=TxuApYZt6bNl9TzI7vObItW34UnATQ4RQxABAEwHst4%3D%3A0",
+            "name": "学习之路"
+        },
+       {
+            "url": "https://raw.fastgit.org/FongMi/CatVodSpider/main/json/config.json",
+            "name": "Fongmi"
+        },
+       {
+            "url": "https://agit.ai/376242575/zzh/raw/branch/master/txt/影视.txt",
+            "name": "人人影视"
+        },
+       {
+            "url": "https://shorturl.at/hnptC",
+            "name": "图图接口"
+        },
+       {
+            "url": "https://freed.yuanhsing.cf/TVBox/meowcf.json",
+            "name": "CH猫友"
         },
        {
             "url": "http://xiaoguozitv.cn/catys/mao0628.txt",
             "name": "喵tv内置源"
         },
-       {
-            "url": "https://share.nite07.com/api/v3/file/source/13485/0716.txt?sign=dxhV79Bv7z8Dc-UIC75rWZ50Z1qFYUJxqOwaBsKhKQU%3D%3A0",
-            "name": "猫影视Pro"
+        {
+            "url": "https://agit.ai/relax/adcc/raw/branch/master/tvbox.json",
+            "name": "巧技接口"
         },
        {
-            "url": "http://miaotvs.cn/osc",
-            "name": "喵影视tv"
+            "url": "https://download.kstore.space/download/2883/PY/0902mystv.txt",
+            "name": "蚂蚁论坛"
         },
        {
-            "url": "http://js.134584.xyz/json/pp87.json",
-            "name": "影视酷(手机版)"
+            "url": "http://tv.nxog.top/m/1.php?ou=%E6%AC%A7%E6%AD%8C&mz=js&xl=4&jar=js",
+            "name": "js线路"
+        },
+       {
+            "url": "http://tv.nxog.top/m/1.php?ou=%E6%AC%A7%E6%AD%8C&mz=py&xl=4&jar=py",
+            "name": "py线路"
         }
+
 ]
 }
