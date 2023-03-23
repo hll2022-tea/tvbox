@@ -5,8 +5,16 @@
             "name": "一影视"
         },
 	  {
+            "url": "https://pastebin.com/raw/72NbH2gN",
+            "name": "My小苹果"
+        },
+	 {
             "url": "https://agit.ai/nbwzlyd/xiaopingguo/raw/branch/master/xiaopingguo/xiaopingguo.json",
             "name": "小苹果"
+        },
+        {
+            "url": "https://pastebin.com/raw/CvWKRN6j",
+            "name": "影视酷"
         },
        {
             "url": "https://0a.fit/X000",
