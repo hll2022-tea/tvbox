@@ -5,8 +5,8 @@
 "name": "FASTGIT_my家庭版线路"
 },
 {
-"url": "https://agit.ai/nbwzlyd/xiaopingguo/raw/branch/master/xiaopingguo/xiaopingguo.json",
-"name": "小苹果线路"
+"url": "https://pastebin.com/raw/72NbH2gN",
+"name": "My小苹果线路"
 },
 {
 "url": "http://itvbox.cc/tvbox/云星日记/1.m3u8",
@@ -21,24 +21,24 @@
 "name": "云星哔哩〔大套餐/学堂等〕"
 },
 {
-"url": "http://js.134584.xyz/json/pp87.json",
-"name": "白嫖影视家庭版线路"
+"url": "https://raw.iqiq.io/gaotianliuyun/gao/master/0828.json",
+"name": "唐三线路"
 },
 {
-"url": "https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/44.txt",
-"name": "佰欣园"
-},
-{
-"url": "https://神器每日推送.tk/pz.json",
-"name": "神器每日推送线路"
+"url": "https://max.lianyingtv.com/uploads/itvbox/api.json",
+"name": "新恋影线路"
 },
 {
 "url": "http://52bsj.vip:81/api/v3/file/get/29899/box2.json?sign=3cVyKZQr3lFAwdB3HK-A7h33e0MnmG6lLB9oWlvSNnM%3D%3A0",
-"name": "月光宝盒线路"
+"name": "月光线路1"
 },
 {
-"url": "https://gitcode.net/kuukey/a/-/raw/master/0.json",
-"name": "KUUKE线路"
+"url": "https://jihulab.com/ygbh1/box/-/raw/main/%E6%9C%88%E5%85%89%E5%AE%9D%E7%9B%92",
+"name": "月光线路2"
+},
+{
+"url": "http://52bsj.vip:98/cl",
+"name": "月光线路3"
 },
 {
 "url": "https://raw.iqiq.io/liu673cn/box/main/m.json",
