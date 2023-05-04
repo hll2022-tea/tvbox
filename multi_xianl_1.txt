@@ -8,17 +8,9 @@
             "url": "https://pastebin.com/raw/72NbH2gN",
             "name": "My小苹果"
         },
-	 {
-            "url": "https://agit.ai/nbwzlyd/xiaopingguo/raw/branch/master/xiaopingguo/xiaopingguo.json",
-            "name": "小苹果"
-        },
         {
             "url": "https://pastebin.com/raw/CvWKRN6j",
             "name": "影视酷"
-        },
-       {
-            "url": "https://0a.fit/X000",
-            "name": "多多"
         },
         {
             "url": "https://jihulab.com/ygbh1/box/-/raw/main/月光宝盒",
@@ -55,14 +47,6 @@
        {
             "url": "https://download.kstore.space/download/2883/PY/0902mystv.txt",
             "name": "蚂蚁论坛"
-        },
-       {
-            "url": "http://tv.nxog.top/m/1.php?ou=%E6%AC%A7%E6%AD%8C&mz=js&xl=4&jar=js",
-            "name": "js线路"
-        },
-       {
-            "url": "http://tv.nxog.top/m/1.php?ou=%E6%AC%A7%E6%AD%8C&mz=py&xl=4&jar=py",
-            "name": "py线路"
         }
 
 ]
