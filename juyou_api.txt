@@ -1,7 +1,7 @@
 {
 "urls": [
 {
-"url": "https://ghproxy.com/https://github.com/hll2022-tea/tv_yuan/blob/main/FASTGIT_myHome.txt",
+"url": "https://ghproxy.com/https://raw.githubusercontent.com/hll2022-tea/tv_yuan/main/FASTGIT_myHome.txt",
 "name": "FASTGIT_my家庭版线路"
 },
 {
