@@ -5,8 +5,17 @@
 "name": "FASTGIT_my家庭版线路"
 },
 {
+"url": "https://pastebin.com/raw/4hhLaYdM",
+"name": "MyPaste家庭版线路"
+},
+
+{
 "url": "https://pastebin.com/raw/72NbH2gN",
 "name": "My小苹果线路"
+},
+{
+"url": "https://pastebin.com/raw/e0F3x67f",
+"name": "MyYSC"
 },
 {
 "url": "http://itvbox.cc/tvbox/云星日记/1.m3u8",
@@ -21,51 +30,102 @@
 "name": "云星哔哩〔大套餐/学堂等〕"
 },
 {
-"url": "http://.top/tv",
+"url": "http://饭太硬.ml/tv",
 "name": "饭太硬"
 },
 {
-"url": "https://raw.iqiq.io/gaotianliuyun/gao/master/0828.json",
+"url":"https://gitee.com/lekanbox/App/raw/master/ali.json",
+"name":"阿里无敌"
+},
+{
+"url":"https://agit.ai/895322156/Q/raw/branch/master/TV/jy.txt",
+"name":"教育专线"
+},
+{
+"url": "https://gh.t4tv.hz.cz/newtang.bmp",
 "name": "唐三线路"
 },
+{
+            "url": "http://yydsys.top/duo",
+            "name": "🏡应用多多家庭版"
+},
+{
+            "url": "http://cdn.yydsys.top/duo",
+            "name": "🏡应用多多备用"
+},
+{
+            "url": "http://yydsys.top/duo/ali",
+            "name": "🚀阿里精品专线"
+},
+{
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json",
+            "name": "🚀蜂蜜线路"
+},
+{
+            "url": "http://home.jundie.top:81/top98.json",
+            "name": "🚀俊佬线路"
+},                              	
 {
 "url": "https://max.lianyingtv.com/uploads/itvbox/api.json",
 "name": "新恋影线路"
 },
 {
-"url": "http://52bsj.vip:81/api/v3/file/get/29899/box2.json?sign=3cVyKZQr3lFAwdB3HK-A7h33e0MnmG6lLB9oWlvSNnM%3D%3A0",
-"name": "月光线路1"
-},
-{
-"url": "https://jihulab.com/ygbh1/box/-/raw/main/%E6%9C%88%E5%85%89%E5%AE%9D%E7%9B%92",
-"name": "月光线路2"
-},
-{
-"url": "http://52bsj.vip:98/cl",
-"name": "月光线路3"
-},
-{
-"url": "https://raw.iqiq.io/liu673cn/box/main/m.json",
-"name": "老刘备家庭版线路"
-},
-{
 "url": "https://ghproxy.com/https://raw.githubusercontent.com/liu673cn/box/main/m.json",
-"name": "老刘备家庭版副线"
+"name": "老刘备家庭版"
 },
 {
 "url": "https://download.kstore.space/download/2863/01.txt",
 "name": "潇洒日记线路"
 },
-{
-"url": "http://s.nxw.so/vip",
-"name": "凯速2863"
+ {
+            "url":"http://car.weixine.net:99/荷城茶秀",
+            "name":"荷城茶秀"
 },
 {
-"url": "https://agit.ai/n/b/raw/branch/a/b/c.json",
-"name": "HDXY线路"
-}
-],
+            "url":"http://car.weixine.net:3/",
+            "name":"国内快线"
+},
+{
+"url":"https://cf.weixine.net/ysc.json",
+"name":"运输车CF加速"
+},
+{
+"url":"https://weixine.net/ysc.json",
+"name":"运输车主线"
+},
+ 
+	  {
+            "url": "https://bitbucket.org/xduo/duoapi/raw/master/xpg.json",
+            "name": "小苹果"
+        },
+       {
+            "url": "http://52bsj.vip:81/api/v3/file/get/41063/bili.json?sign=TxuApYZt6bNl9TzI7vObItW34UnATQ4RQxABAEwHst4%3D%3A0",
+            "name": "学习之路"
+        },
+       {
+            "url": "https://agit.ai/376242575/zzh/raw/branch/master/txt/影视.txt",
+            "name": "人人影视"
+        },
+       {
+            "url": "https://freed.yuanhsing.cf/TVBox/meowcf.json",
+            "name": "CH猫友"
+        },
+       {
+            "url": "http://xiaoguozitv.cn/catys/mao0628.txt",
+            "name": "喵tv内置源"
+        },
+        {
+            "url": "https://agit.ai/relax/adcc/raw/branch/master/tvbox.json",
+            "name": "巧技接口"
+        },
+       {
+            "url": "https://download.kstore.space/download/2883/PY/0902mystv.txt",
+            "name": "蚂蚁论坛"
+        }
 
+
+
+],
 "vip": [
 {
 "url": "https://xxx",
