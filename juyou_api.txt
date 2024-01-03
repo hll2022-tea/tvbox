@@ -8,57 +8,44 @@
 "url": "https://pastebin.com/raw/4hhLaYdM",
 "name": "MyPaste家庭版线路"
 },
-
-{
-"url": "https://pastebin.com/raw/72NbH2gN",
-"name": "My小苹果线路"
-},
 {
 "url": "https://pastebin.com/raw/e0F3x67f",
 "name": "MyYSC"
 },
 {
 "url": "http://itvbox.cc/tvbox/云星日记/1.m3u8",
-"name": "云星家庭〔纯绿色家庭版〕"
-},
-{
-"url": "http:/itvbox.cc/tvbox/云星日记/ali.m3u8",
-"name": "云星阿里〔小纸条/推送等〕"
-},
-{
-"url": "http:/itvbox.cc/tvbox/云星日记/bili.m3u8",
-"name": "云星哔哩〔大套餐/学堂等〕"
+"name": "云星家庭"
 },
 {
 "url": "http://饭太硬.top/tv",
 "name": "饭太硬"
 },
 {
-"url":"https://gitee.com/lekanbox/App/raw/master/ali.json",
-"name":"阿里无敌"
+"url":"http://yydf.540734621.xyz/yydf/yydf/bd/yydf.json",
+"name":"业余专线"
+},
+{
+"url":"https://jihulab.com/ymz1231/xymz/-/raw/main/ymz",
+"name":"夜猫子"
+},
+{
+"url":"https://codeberg.org/AK47/drpy-js/raw/branch/main/js.json",
+"name":"猫爪专线"
+},
+{
+"url":"http://肥猫.live",
+"name":"肥猫专线"
 },
 {
 "url":"https://agit.ai/895322156/Q/raw/branch/master/TV/jy.txt",
 "name":"教育专线"
 },
 {
-"url": "https://gh.t4tv.hz.cz/newtang.bmp",
-"name": "唐三线路"
-},
-{
             "url": "http://yydsys.top/duo",
             "name": "🏡应用多多家庭版"
 },
 {
-            "url": "http://cdn.yydsys.top/duo",
-            "name": "🏡应用多多备用"
-},
-{
-            "url": "http://yydsys.top/duo/ali",
-            "name": "🚀阿里精品专线"
-},
-{
-            "url": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json",
+            "url": "https://fm.t4tv.hz.cz/json/config.json",
             "name": "🚀蜂蜜线路"
 },
 {
@@ -66,24 +53,12 @@
             "name": "🚀俊佬线路"
 },                              	
 {
-"url": "https://max.lianyingtv.com/uploads/itvbox/api.json",
-"name": "新恋影线路"
-},
-{
-"url": "https://ghproxy.com/https://raw.githubusercontent.com/liu673cn/box/main/m.json",
-"name": "老刘备家庭版"
-},
-{
-"url": "https://download.kstore.space/download/2863/01.txt",
-"name": "潇洒日记线路"
+"url": "https://jihulab.com/lxhfans/TV/-/raw/master/tv.txt",
+"name": "奇奇线路"
 },
  {
-            "url":"http://car.weixine.net:99/荷城茶秀",
+            "url":"http://rihou.cc:88/荷城茶秀",
             "name":"荷城茶秀"
-},
-{
-            "url":"http://car.weixine.net:3/",
-            "name":"国内快线"
 },
 {
 "url":"https://cf.weixine.net/ysc.json",
