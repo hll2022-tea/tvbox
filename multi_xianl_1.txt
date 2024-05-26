@@ -6,7 +6,7 @@
 {"name":"🐼肥猫影视专用线","url":"http://肥猫.love"},
 {"name":"🌹太硬砂锅","url":"http://饭太硬.ml/tv"},
 {"name":"🌹小米砂锅","url":"http://xhww.fun:63/小米/DEMO.json"},
-{"name":"💞云星砂锅","url":"http://itvbox.cc/tvbox/云星日记/1.m3u8"},
+{"name":"💞云星砂锅","url":"http://itvbox.cc/云星日记"},
 
 {"name":"💞多多砂锅","url":"https://yydsys.top/duo"},
 
