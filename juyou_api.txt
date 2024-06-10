@@ -33,7 +33,7 @@
 "name":"猫爪专线"
 },
 {
-"url":"http://肥猫.live",
+"url":"http://肥猫.com",
 "name":"肥猫专线"
 },
 {
