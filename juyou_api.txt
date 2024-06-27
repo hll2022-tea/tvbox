@@ -1,16 +1,16 @@
 {
 "urls": [
 {
-"url": "https://ghproxy.com/https://raw.githubusercontent.com/hll2022-tea/tv_yuan/main/FASTGIT_myHome.txt",
-"name": "FASTGIT_my家庭版线路"
-},
-{
 "url": "https://pastebin.com/raw/4hhLaYdM",
 "name": "MyPaste家庭版线路"
 },
 {
-"url": "https://pastebin.com/raw/e0F3x67f",
-"name": "MyYSC"
+"url": "https://raw.gitmirror.com/hll2022-tea/tv_yuan/main/FASTGIT_myHome.txt",
+"name": "FASTGIT_my家庭版线路"
+},
+{
+"url": "http://ok321.top/ok",
+"name": "OK线路"
 },
 {
 "url": "http://itvbox.cc/云星日记",
@@ -21,45 +21,37 @@
 "name": "饭太硬"
 },
 {
-"url":"http://yydf.540734621.xyz/yydf/yydf/bd/yydf.json",
-"name":"业余专线"
+"url":"https://git.acwing.com/iduoduo/orange/-/raw/main/jsm.json",
+"name":"PG线路"
 },
 {
 "url":"https://jihulab.com/ymz1231/xymz/-/raw/main/ymz",
 "name":"夜猫子"
 },
 {
-"url":"https://codeberg.org/AK47/drpy-js/raw/branch/main/js.json",
-"name":"猫爪专线"
+"url":"https://tvbox.woniuxs.dynv6.net/fty",
+"name":"蜗牛影视"
 },
 {
-"url":"http://肥猫.com",
+"url":"http://肥猫.com/",
 "name":"肥猫专线"
 },
 {
-"url":"https://agit.ai/895322156/Q/raw/branch/master/TV/jy.txt",
-"name":"教育专线"
+"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/woniuxs/TvBox/main/fty.json",
+"name":"蜗牛弹幕"
 },
 {
-            "url": "http://yydsys.top/duo",
-            "name": "🏡应用多多家庭版"
+            "url": "https://tvbox.woniuxs.dynv6.net/蜗牛影视",
+            "name": "蜗牛科技仓"
 },
 {
-            "url": "https://fm.t4tv.hz.cz/json/config.json",
-            "name": "🚀蜂蜜线路"
+            "url": "https://tvbox.woniuxs.link/tv/xxys.json",
+            "name": "晓晓线路"
 },
 {
             "url": "http://home.jundie.top:81/top98.json",
             "name": "🚀俊佬线路"
 },                              	
-{
-"url": "https://jihulab.com/lxhfans/TV/-/raw/master/tv.txt",
-"name": "奇奇线路"
-},
- {
-            "url":"http://rihou.cc:88/荷城茶秀",
-            "name":"荷城茶秀"
-},
 {
 "url":"https://cf.weixine.net/ysc.json",
 "name":"运输车CF加速"
@@ -74,26 +66,10 @@
             "name": "小苹果"
         },
        {
-            "url": "http://52bsj.vip:81/api/v3/file/get/41063/bili.json?sign=TxuApYZt6bNl9TzI7vObItW34UnATQ4RQxABAEwHst4%3D%3A0",
-            "name": "学习之路"
-        },
-       {
-            "url": "https://agit.ai/376242575/zzh/raw/branch/master/txt/影视.txt",
-            "name": "人人影视"
-        },
-       {
-            "url": "https://freed.yuanhsing.cf/TVBox/meowcf.json",
-            "name": "CH猫友"
-        },
-       {
             "url": "http://xiaoguozitv.cn/catys/mao0628.txt",
             "name": "喵tv内置源"
         },
         {
-            "url": "https://agit.ai/relax/adcc/raw/branch/master/tvbox.json",
-            "name": "巧技接口"
-        },
-       {
             "url": "https://download.kstore.space/download/2883/PY/0902mystv.txt",
             "name": "蚂蚁论坛"
         }
