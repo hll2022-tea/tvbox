@@ -33,6 +33,10 @@
 "name":"蜗牛影视"
 },
 {
+"url":"https://gitlab.com/duomv/dzhipy/-/raw/main/index.json",
+"name":"hipy"
+},
+{
 "url":"http://肥猫.com/",
 "name":"肥猫专线"
 },
