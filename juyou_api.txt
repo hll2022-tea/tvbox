@@ -13,10 +13,6 @@
 "name": "OK线路"
 },
 {
-"url": "http://itvbox.cc/云星日记",
-"name": "云星家庭"
-},
-{
 "url": "http://www.饭太硬.com/tv",
 "name": "饭太硬"
 },
@@ -25,11 +21,15 @@
 "name":"PG线路"
 },
 {
+      "url": "https://xn--tkh-mf3g9f.v.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌tkh",
+      "name": "📱讴歌线路"
+    },
+{
 "url":"https://jihulab.com/ymz1231/xymz/-/raw/main/ymz",
 "name":"夜猫子"
 },
 {
-"url":"https://tvbox.woniuxs.dynv6.net/fty",
+"url":"https://tv.蜗牛.top/svip",
 "name":"蜗牛影视"
 },
 {
@@ -41,7 +41,7 @@
 "name":"肥猫专线"
 },
 {
-"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/woniuxs/TvBox/main/fty.json",
+"url":"https://tvbox.蜗牛.top/fty",
 "name":"蜗牛弹幕"
 },
 {
@@ -49,7 +49,7 @@
             "name": "蜗牛科技仓"
 },
 {
-            "url": "https://tvbox.woniuxs.link/tv/xxys.json",
+            "url": "https://tv.蜗牛.top/tv/xxys.json",
             "name": "晓晓线路"
 },
 {
@@ -73,9 +73,25 @@
             "url": "http://xiaoguozitv.cn/catys/mao0628.txt",
             "name": "喵tv内置源"
         },
+{
+"url": "http://itvbox.cc/云星日记",
+"name": "云星家庭"
+},
+{
+      "url": "http://box.ufuzi.com/tv/qq/%E7%9F%AD%E5%89%A7%E9%A2%91%E9%81%93/api.json",
+      "name": "💕短剧专线①"
+    },
+    {
+      "url": "http://74.120.175.78/JK/XYQTVBox/dj.json",
+      "name": "📚短剧专线②"
+    },
+    {
+      "url": "http://rihou.cc:55/天天开心",
+      "name": "🐅天天开心"
+    },
         {
-            "url": "https://download.kstore.space/download/2883/PY/0902mystv.txt",
-            "name": "蚂蚁论坛"
+            "url": "https://git.acwing.com/iduoduo/orange/-/raw/main/jsm.json",
+            "name": "多多线路"
         }
 
 
