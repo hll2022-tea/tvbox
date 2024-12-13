@@ -2,11 +2,11 @@
 "urls": [
 {
 "url": "https://pastebin.com/raw/4hhLaYdM",
-"name": "MyPaste家庭版线路"
+"name": "📱MyPaste家庭版线路"
 },
 {
 "url": "https://raw.gitmirror.com/hll2022-tea/tv_yuan/main/FASTGIT_myHome.txt",
-"name": "FASTGIT_my家庭版线路"
+"name": "📚FASTGIT_my家庭版线路"
 },
 {
 "url": "http://ok321.top/ok",
