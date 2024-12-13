@@ -95,7 +95,7 @@
     {
       "url": "https://tvbox.蜗牛.top/蜗牛影视",
       "name": "公众号丨蜗牛科技仓"
-    }，
+    },
 {
       "name": "公众号：木鱼黑科技",
       "url": "https://d.kstore.dev/download/12020/jk.bmp"
