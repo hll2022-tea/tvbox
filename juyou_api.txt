@@ -17,8 +17,8 @@
 "name": "饭太硬"
 },
 {
-"url":"https://git.acwing.com/iduoduo/orange/-/raw/main/jsm.json",
-"name":"PG线路"
+"url":"https://gongdian.top:443/tvbox/db.json",
+"name":"宫殿线路"
 },
 {
       "url": "https://xn--tkh-mf3g9f.v.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌tkh",
