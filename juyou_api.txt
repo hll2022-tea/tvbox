@@ -9,8 +9,7 @@
 "name": "📺FASTGIT_release线路"
 },
 {
-"url": "http://pg.qtsh.top
-",
+"url": "http://pg.qtsh.top",
 "name": "PG线路.top"
 },
 {
