@@ -9,7 +9,7 @@
 "name": "📺FASTGIT_release线路"
 },
 {
-"url": "http://pg.qtsh.top",
+"url": "https://cnb.cool/fish2018/pg/-/git/raw/master/jsm.json",
 "name": "PG线路.top"
 },
 {
@@ -110,10 +110,7 @@
       "url": "https://11256.kstore.space/%E5%85%8D%E8%B4%B9%E5%8B%BF%E4%BC%A0.json",
       "name": "🚀七星影仓"
     },
-            {
-      "url": "http://www.fish2018.us.kg/p/jsm.json",
-      "name": "🚀PG线路"
-    },
+  
     
     {
       "url": "http://tv.laohu.cool/tvbox.json",
