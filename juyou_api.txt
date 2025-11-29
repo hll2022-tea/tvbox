@@ -10,7 +10,7 @@
 "name": "📺FASTGIT_myHome线路"
 },
 {
-"url": "https://raw.gitmirror.com/hll2022-tea/tv_yuan/main/FASTGIT_release.txt",
+"url": "https://raw.kkgithub.com/hll2022-tea/tv_yuan/main/FASTGIT_release.txt",
 "name": "📺FASTGIT_release线路"
 },
 {
@@ -18,7 +18,7 @@
 "name": "PG线路.top"
 },
 {
-"url": "http://ok321.top/ok",
+"url": "http://ok321.top/tv",
 "name": "OK线路"
 },
 {
