@@ -34,6 +34,11 @@
             "url": "https://yydsys.netlify.app/config.json",
             "name": "🚀推荐┃多多备用"
         },
+
+{
+"url":"http://121.4.96.239:555/jiekou/xianlu.txt",
+"name":"如意线路"
+},
 {
 "url": "https://9877.kstore.space/AnotherD/api.json",
 "name": "潇洒"
