@@ -6,11 +6,11 @@
 },
 
 {
-"url": "https://raw.kkgithub.com/hll2022-tea/tv_yuan/main/FASTGIT_myHome.txt",
+"url": "https://gh.llkk.cc/https://raw.githubusercontent.com/hll2022-tea/tv_yuan/main/FASTGIT_myHome.txt",
 "name": "📺FASTGIT_myHome线路"
 },
 {
-"url": "https://raw.kkgithub.com/hll2022-tea/tv_yuan/main/FASTGIT_release.txt",
+"url": "https://gh.llkk.cc/https://raw.githubusercontent.com/hll2022-tea/tv_yuan/main/FASTGIT_release.txt",
 "name": "📺FASTGIT_release线路"
 },
 {
