@@ -39,12 +39,35 @@
 "url":"http://121.4.96.239:555/jiekou/xianlu.txt",
 "name":"如意线路"
 },
+{
+      "name": "💖真心",
+      "url": "https://www.252035.xyz/z/FongMi.json"
+    },
+    {
+      "name": "🦝PG",
+      "url": "https://www.252035.xyz/p/jsm.json"
+    },
 
+ {
+      "name": "💖4K",
+      "url": "http://tv.4kbox.top/4k/index.php"
+    },
+    {
+      "name": "💖如意",
+      "url": "https://gitee.com/wynp/ys/raw/master/yc.json"
+    },
 {
       "url": "http://by1.430520.xyz//tvbox/cache/888.html",
       "name": "👇 装歌收集网络线路👇"
     },
-
+ {
+      "name": "🐅小脑斧",
+      "url": "http://cnmb.cc.cd/jk/xnf.json"
+    },
+    {
+      "name": "🐔集多VOX",
+      "url": "http://rihou.cc:88/demo.php"
+    },
 {
 "url": "https://9877.kstore.space/AnotherD/api.json",
 "name": "潇洒"
