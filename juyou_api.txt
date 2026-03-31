@@ -21,6 +21,11 @@
 "url": "http://ok321.top/tv",
 "name": "OK线路"
 },
+
+ {
+      "url": "http://154.8.225.238:9991/cang/4k.json",
+      "name": "云4K电视"
+    },
 {
 "url": "http://www.饭太硬.com/tv",
 "name": "饭太硬"
