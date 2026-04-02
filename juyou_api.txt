@@ -30,7 +30,18 @@
 "url": "http://www.饭太硬.com/tv",
 "name": "饭太硬"
 },
-
+{
+"url": "https://700sjro44343.vicp.fun/vip/vip/tv.json",
+"name": "极速电视家"
+},
+{
+"url": "http://www.su7.run/",
+"name": "电视家衍生1"
+},
+{
+"url": "https://700sjro44343.vicp.fun/eggp/0615/tv.php",
+"name": "电视家衍生2"
+},
 {
             "url": "https://yydsys.top/duo",
             "name": "🚀推荐┃多多线路"
